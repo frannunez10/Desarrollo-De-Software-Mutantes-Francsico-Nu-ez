@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="parcial.mutantest.Services.DNAMuestraServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-11-28T03:48:15" hostname="DESKTOP-6O0OTH9" time="1.849">
+  <properties/>
+  <testcase name="testIsMutante_debeDevolverHumano()" classname="parcial.mutantest.Services.DNAMuestraServiceTest" time="1.849"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
